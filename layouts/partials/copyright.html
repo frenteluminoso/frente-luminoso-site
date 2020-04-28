@@ -1,0 +1,16 @@
+<!-- Copyright -->
+<div id="copyright">
+    <ul><li>&copy; {{ .Site.Title }}</li>
+    
+    {{ range .Site.Menus.footer }}
+    <li>
+    <a href="{{ .URL }}" title="{{ .Title }}">
+      {{- .Name -}}
+      {{- with .Page -}}
+      {{- end -}}
+    </a>
+    </li>
+    {{ end }}
+    </ul>
+
+</div>

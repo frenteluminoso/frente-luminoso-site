@@ -1,0 +1,50 @@
+{{ partial "htmlhead" . }}
+    <body lang='{{ .Site.Language.Lang | default "en-us" }}' class="is-preload">
+
+        <!-- Wrapper -->
+            <div id="wrapper">
+
+                {{ partial "header" . }}
+                {{ partial "nav" . }}
+
+                <!-- Main -->
+                    <div id="main">
+
+                        <section class="posts">
+
+                            <article>
+                                <header>
+                                    <h2>Orphea</h2>
+                                </header>
+
+                                <a href="https://ditto.fm/orphea" target="_blank" class="image fit"><img src="../images/covers/frente-luminoso-orphea-cover-low-res.jpg" /></a>
+                                <ul class="actions">
+                                    <li><a href="https://ditto.fm/adraneia" target="_blank" class="button">Stream Orphea</a></li>
+                                </ul>
+                            </article>
+
+
+                            <article>
+                                <header>
+                                    <h2>Adraneia</h2>
+                                </header>
+                                <a href="https://ditto.fm/adraneia" target="_blank" class="image fit"><img src="../images/covers/frente-luminoso-adraneia-cover-low-res.jpg" /></a>
+                                <p></p>
+                     
+                                <ul class="actions">
+                                    <li><a href="https://ditto.fm/adraneia" target="_blank" class="button">Pre-save Adraneia</a></li>
+                                </ul>
+                            </article>
+
+                        </section>
+
+                    </div>
+
+                    {{ partial "footer/index" . }}
+                    {{ partial "copyright" . }}
+
+            </div>
+            {{ template "_internal/google_analytics.html" . }}
+            {{ partial "scripts/index" . }}
+    </body>
+</html>

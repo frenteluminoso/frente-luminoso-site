@@ -1,0 +1,21 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.intro }}
+<div id="intro">
+    <h1>
+        {{ range $i, $e := .title }}
+            {{ if $i }} <br/> {{ end }} {{ .line }}
+        {{ end }}
+    </h1>
+    <p>
+        {{ range $i, $e := .description }}
+            {{ if $i }} <br/> {{ end }} {{ .line }}
+        {{ end }}
+    </p>
+    <ul class="actions">
+        <li><a href="#header" class="logo  scrolly">
+        <img src="../images/frente-luminoso-white.png" width="400" />
+    </a></li>
+    </ul>
+
+</div>
+{{ end }}

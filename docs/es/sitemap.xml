@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://frenteluminoso.github.io/frente-luminoso-site/aviso-legal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://frenteluminoso.github.io/frente-luminoso-site/cookies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://frenteluminoso.github.io/frente-luminoso-site/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://frenteluminoso.github.io/frente-luminoso-site/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://frenteluminoso.github.io/frente-luminoso-site/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://frenteluminoso.github.io/frente-luminoso-site/musica/</loc>
+  </url>
+  
+  <url>
+    <loc>http://frenteluminoso.github.io/frente-luminoso-site/tienda/</loc>
+  </url>
+  
+  <url>
+    <loc>http://frenteluminoso.github.io/frente-luminoso-site/videos/</loc>
+  </url>
+  
+</urlset>

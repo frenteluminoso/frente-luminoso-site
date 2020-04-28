@@ -1,0 +1,19 @@
+.bg{
+	background-image:url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.gif") !important;	
+}
+
+.logo{
+	border:none !important;
+}
+
+.privacy_policy_text{
+	display: block;
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 9px;
+    line-height: 11px;
+    margin-top: 14px !important;
+    color: #cdcdcd;
+}
+

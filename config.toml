@@ -1,0 +1,37 @@
+baseURL = "http://frenteluminoso.github.io/frente-luminoso-site"
+languageCode = "es-es"
+title = "Frente Luminoso"
+theme = "massively"
+DefaultContentLanguage = "es"
+publishDir = "docs"
+
+googleanalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+
+
+[params]
+  # set below parameter to define a favicon
+	favicon = "images/favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+
+# Below parameters can be set to override default post settings
+[params.posts]
+folderName = "news"
+pageSize = "6"
+featuredPost = "true"
+#     paginationPages = 2
+#     showFirstLast = false
+
+[languages]
+[languages.en]
+  languageName = "English"
+  weight = 2
+[languages.es]
+  languageName = "Español"
+  weight = 1
+#[languages.fr]
+#  languageName = "Français"
+#  title = "Massively - Version Française"

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.frenteluminoso.com/aviso-legal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.frenteluminoso.com/cookies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.frenteluminoso.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.frenteluminoso.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.frenteluminoso.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.frenteluminoso.com/musica/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.frenteluminoso.com/tienda/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.frenteluminoso.com/videos/</loc>
+  </url>
+  
+</urlset>
