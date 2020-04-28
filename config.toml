@@ -5,7 +5,7 @@ theme = "massively"
 DefaultContentLanguage = "es"
 publishDir = "docs"
 
-googleanalytics = ""
+googleanalytics = "UA-164768407-1"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
