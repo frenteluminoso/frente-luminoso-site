@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frente Luminoso</title>
-    <link>http://frenteluminoso.github.io/frente-luminoso-site/</link>
+    <link>http://frenteluminoso.github.io/</link>
     <description>Recent content on Frente Luminoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     
-	<atom:link href="http://frenteluminoso.github.io/frente-luminoso-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://frenteluminoso.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aviso legal</title>
-      <link>http://frenteluminoso.github.io/frente-luminoso-site/aviso-legal/</link>
+      <link>http://frenteluminoso.github.io/aviso-legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://frenteluminoso.github.io/frente-luminoso-site/aviso-legal/</guid>
+      <guid>http://frenteluminoso.github.io/aviso-legal/</guid>
       <description>Los términos y condiciones que a continuación se indican regulan el acceso y el uso de www.frenteluminoso.com, titularidad de FRENTE LUMINOSO. Contacto a través de correo electrónico sagrado@frenteluminoso.com . Facebook: https://www.facebook.com/Frente-Luminoso-416752085397601/
  1. OBJETO Y ÁMBITO DE APLICACIÓN
 1.1. Las presentes Condiciones Generales (“Condiciones Generales”) regulan el acceso, navegación y uso de los sitios web bajo el dominio frenteluminoso.com” (el “Sitio Web”).
@@ -24,37 +24,37 @@
     
     <item>
       <title>Cookies</title>
-      <link>http://frenteluminoso.github.io/frente-luminoso-site/cookies/</link>
+      <link>http://frenteluminoso.github.io/cookies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://frenteluminoso.github.io/frente-luminoso-site/cookies/</guid>
+      <guid>http://frenteluminoso.github.io/cookies/</guid>
       <description>Puede usted permitir, bloquear o eliminar las cookies instaladas en su equipo mediante la configuración de las opciones del navegador instalado en su ordenador. Si no está seguro sobre qué tipo y versión de navegador usa para acceder a internet: Para Windows: click en ‘Ayuda’ en la parte superior de la ventana de su navegador y seleccione la opción ‘Acerca de’. CÓMO GESTIONAR LAS COOKIES EN WINDOWS Google Chrome 1. Haz clic en el menú de Chrome Chrome situado en la barra de herramientas del navegador.</description>
     </item>
     
     <item>
       <title>Música</title>
-      <link>http://frenteluminoso.github.io/frente-luminoso-site/musica/</link>
+      <link>http://frenteluminoso.github.io/musica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://frenteluminoso.github.io/frente-luminoso-site/musica/</guid>
+      <guid>http://frenteluminoso.github.io/musica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tienda</title>
-      <link>http://frenteluminoso.github.io/frente-luminoso-site/tienda/</link>
+      <link>http://frenteluminoso.github.io/tienda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://frenteluminoso.github.io/frente-luminoso-site/tienda/</guid>
+      <guid>http://frenteluminoso.github.io/tienda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videos</title>
-      <link>http://frenteluminoso.github.io/frente-luminoso-site/videos/</link>
+      <link>http://frenteluminoso.github.io/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://frenteluminoso.github.io/frente-luminoso-site/videos/</guid>
+      <guid>http://frenteluminoso.github.io/videos/</guid>
       <description>Orphea   </description>
     </item>
     

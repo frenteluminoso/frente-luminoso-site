@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://frenteluminoso.github.io/frente-luminoso-site/en/</loc>
+    <loc>http://frenteluminoso.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://frenteluminoso.github.io/frente-luminoso-site/"
+                href="http://frenteluminoso.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://frenteluminoso.github.io/frente-luminoso-site/en/"
+                href="http://frenteluminoso.github.io/en/"
                 />
   </url>
   

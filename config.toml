@@ -1,4 +1,4 @@
-baseURL = "http://frenteluminoso.github.io/frente-luminoso-site"
+baseURL = "http://frenteluminoso.github.io"
 languageCode = "es-es"
 title = "Frente Luminoso"
 theme = "massively"

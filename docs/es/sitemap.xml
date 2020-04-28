@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://frenteluminoso.github.io/frente-luminoso-site/aviso-legal/</loc>
+    <loc>http://frenteluminoso.github.io/aviso-legal/</loc>
   </url>
   
   <url>
-    <loc>http://frenteluminoso.github.io/frente-luminoso-site/cookies/</loc>
+    <loc>http://frenteluminoso.github.io/cookies/</loc>
   </url>
   
   <url>
-    <loc>http://frenteluminoso.github.io/frente-luminoso-site/</loc>
+    <loc>http://frenteluminoso.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://frenteluminoso.github.io/frente-luminoso-site/en/"
+                href="http://frenteluminoso.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://frenteluminoso.github.io/frente-luminoso-site/"
+                href="http://frenteluminoso.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://frenteluminoso.github.io/frente-luminoso-site/musica/</loc>
+    <loc>http://frenteluminoso.github.io/musica/</loc>
   </url>
   
   <url>
-    <loc>http://frenteluminoso.github.io/frente-luminoso-site/tienda/</loc>
+    <loc>http://frenteluminoso.github.io/tienda/</loc>
   </url>
   
   <url>
-    <loc>http://frenteluminoso.github.io/frente-luminoso-site/videos/</loc>
+    <loc>http://frenteluminoso.github.io/videos/</loc>
   </url>
   
 </urlset>
